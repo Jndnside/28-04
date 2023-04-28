@@ -1,0 +1,12 @@
+/*selector de element*/
+body{
+    background-color:bisque ;
+}
+h2{
+    color: pink;
+}
+/*selector de class*/
+h1{
+    text-align: center;
+    color: brown;
+}
